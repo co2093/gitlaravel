@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Usando git con Laravel - Pruebas
+                    Git con Laravel - Pruebas Dos
                 </div>
 
                 <div class="links">
